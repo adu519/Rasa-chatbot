@@ -518,6 +518,7 @@ nlu:
     - Do you have a scholarship test?
     - How Python for Kids Promotes Algorithmic Thinking in Students?
     - which programming language you should prefer for beginner?
+    - I am unable to call to the mentor. Please call me back as I want to change the Class of academic year.
  
 - intent: scope_high
   examples:  |
@@ -1300,10 +1301,7 @@ nlu:
     - what are the benefits of learning scratch programming? 
 - intent: 5_coding_lang
   examples: |
-    - Top 5 coding languages for kids?
-- intent: contact
-  examples: |
-    - I am unable to call to the mentor. Please call me back as I want to change the Class of academic year.
+    - Top 5 coding languages for kids?    
 - intent: algo
   examples: |
     - What is an algorithm?
