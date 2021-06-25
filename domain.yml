@@ -507,7 +507,8 @@ responses:
   utter_Programming_Language:
   - text: "Html, Java and python programming."
   utter_Study_Material:
-  - text: "If you join our courses, we provide you with our certified notes and study material. We think that books are tough for the kids to understand."
+  - text: "If you join our courses, we provide you with our certified notes and study material, which comes with the course itself. We think that books are tough for the kids to understand."
+  
   utter_Live_Session:
   - text: "In live sessions, students can interact with the mentor live instead of recorded lacture."
   utter_Intermediate_And_Advance_Course:
