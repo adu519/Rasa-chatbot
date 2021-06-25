@@ -334,7 +334,8 @@ responses:
   - text: There is a huge scope in learning Python as it is used in many field like Machine learning, Deep learning etc, its user friendly and easy to learn. Which comes with good salary.
   
   utter_About_Python:
-  - text: Python is a programming language which is user friendly and easy to learn. Which has a high scope in future.
+  - text: Python is a programming language which is user friendly and easy to learn. Which has a high scope in future. Python has many types of modules and frameworks
+  which can be used to develop many applications and various things.
 
   utter_assignment:
   - text: "Yes assignment will be assigned"
