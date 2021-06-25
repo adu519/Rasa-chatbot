@@ -311,9 +311,7 @@ nlu:
 - intents: Free_Course
   examples:  |
     - If it is a paid course, does it have a free trial or money back guarantee?
-- intents: About_Certification
-  examples:  |   
-    - Will my child get a certificate?
+
 - intents: About_Scholarship
   examples:  |
     - Do you have a scholarship test?
@@ -524,7 +522,7 @@ nlu:
     -Are the classes held daily for these courses?
     -Will there be an exam after completion of course?
     -What is 1:1 live interactive classes?
-
+    - I am unable to call to the mentor. Please call me back as I want to change the Class of academic year.
  
 - intent: scope_high
   examples:  |
@@ -543,10 +541,6 @@ nlu:
 - intent: opt_offline
   examples: |
     - can I opt for offline sessions
-       
-- intent: where_certificate
-  examples:  |
-    - where will i recieve my course certifacte after completion?
        
 - intent:  Yes_
   examples:  |
@@ -1176,11 +1170,7 @@ nlu:
 - intent : About_Mentor
   examples :  |
     - Do you have professionally trained teachers? 
-    - Do you have any special teachers for helping student assignments ?
-     
-- intent : Coding_In_Mobile
-  examples :  |
-    - Do you provide a certificate after completion ?   
+    - Do you have any special teachers for helping student assignments ?  
      
 - intent : Weekend_Session
   examples :  |
@@ -1307,10 +1297,7 @@ nlu:
     - what are the benefits of learning scratch programming? 
 - intent: 5_coding_lang
   examples: |
-    - Top 5 coding languages for kids?
-- intent: contact
-  examples: |
-    - I am unable to call to the mentor. Please call me back as I want to change the Class of academic year.
+    - Top 5 coding languages for kids?    
 - intent: algo
   examples: |
     - What is an algorithm?

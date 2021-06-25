@@ -474,8 +474,7 @@ responses:
   - text: "Yes, you can talk to academic mentor about your chil's performance."
   utter_Free_Course:
   - text: "Yes, you can have a free trial session."
-  utter_Coding_In_Mobile:
-  - text: "Yes, we provide our coding platform on mobile phone also."
+ 
   utter_About_Mentor:
   - text: "Yes, we provide best teachers."
   utter_Coding_Interest:
