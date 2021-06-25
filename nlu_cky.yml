@@ -163,6 +163,16 @@ nlu:
  examples:  |
   -Do you  recommend any books for python coding ?
   -Do you  recommend any books for an 8-10 year old kid coding ?
+  - What are the study materials do provide ?
+    - Do study material will be available in hardcopy or softcopy ?
+    - Can my child will able to understand the study material concepts?
+    - If my child found some doubts in study materials , how will you solve them ?
+    - If my child found doubts in study material , is there is option to sort out them ?
+    - Could I have to pay extra charges for study material ?
+    - study materials are free of cost ?
+    - Do you charge the cost of study material including in fees itself ?
+    - Is study materials are written by your working professionals  or outsiders?
+    - In study materials is there are problems exercises by which my child can practice daily?
 
 -intents: Programming_Language
  examples: |
@@ -1353,15 +1363,7 @@ nlu:
      -Is Python the future?
      -What can my kid do with Python?
      -Why to enroll for Python course?
-   
- - intent : Ask_nlp
-    examples:  |
-     - Is there a course available on NLP ? 
-     - what is nlp?
-     - full form of nlp?
-     - where nlp is used?
-     - tell me about nlp in detail?
-     - can we use nlp in real life?
+  
 
  - intent : About_PHP
    examples: |
