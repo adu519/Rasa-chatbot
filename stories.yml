@@ -49,12 +49,6 @@ stories:
   - intent: ask_remove_course
   - action: utter_ask_remove_course
   
-  
-- story: PHP
-  steps: 
-  - intent: About_PHP
-  - action: utter_About_PHP
-  
 - story: cky1_course_related 
   steps:
   - intent: Course_related
@@ -789,3 +783,94 @@ stories:
 - story: fees
   - intent: fees
   - action: utter_fees
+  
+- story: Coding Future
+  - intent: Coding_Future
+  - action: utter_Coding_Future  
+  
+- story: Coding Future
+  - intent: Python_Scope
+  - action: utter_Python_Scope
+  
+- story: Coding Duration
+  - intent: Coding_Duration
+  - action: utter_Coding_Duration
+  
+- story: Course Fee
+  - intent: Course_Fee
+  - action: utter_Course_Fee
+  
+- story: Course Info
+  - intent: Course_Info
+  - action: utter_Course_Info
+  
+- story: Basic Course Content
+  - intent: Basic_Course_Content
+  - action: utter_Basic_Course_Content
+  
+- story: Intermediate and Advance Course
+  - intent: About_Intermediate_And_Advance_Course
+  - action: utter_About_Intermediate_And_Advance_Course
+  
+- story: Intermediate and Professional Course
+  - intent: About_Intermediate_And_Professional_Course
+  - action: utter_About_Intermediate_And_Professional_Course
+  
+- story: Live Session
+  - intent: Live_Session
+  - action: Live_Session
+  
+- story: Study Materials
+  - intent: Study_Materials
+  - action: Study_Materials
+  
+- story: Programming Language
+  - intent: Programming_Language
+  - action: Programming_Language
+  
+- story: Use Of c++ and HTML
+  - intent: Use_Of_C++_and_HTML
+  - action: Use_Of_C++_And_HTML
+  
+- story: About_HTML
+  - intent: About_HTML
+  - action: About_HTML
+  
+- story: HTML Scope
+  - intent: HTML_Scope
+  - action: HTML_Scope  
+  
+- story: After Scratch Programme
+  - intent: After_Scratch_Programme
+  - action: After_Scratch_Programme
+  
+- story: Choosing Programming Language
+  - intent: Choosing_Programming_Language
+  - action: Choosing_Programming_Language  
+  
+- story: Benefit Of C++ Programme
+  - intent: Benefit_Of_C++_Programme
+  - action: Benefit_OF_C++_Programme
+  
+- story: Scratch Programming
+  - intent: Scratch_Programming
+  - action: Scratch_Programming
+  
+- story: Refund
+  - intent: About_Refund
+  - action: About_Refund
+  
+- story: Batch
+  - intent: About_Batch
+  - action: About_Batch
+  
+- story: Course
+  - intent: About_Course
+  - action: About_Course
+  
+- story: About_Java_Programme
+  - intent: About_Java_Programme
+  - action: About_Java_Programme
+    
+  
+  
