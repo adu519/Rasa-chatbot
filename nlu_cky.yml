@@ -603,6 +603,19 @@ nlu:
     - Do you use professional languages and tools? 
     - Do you offer support from teachers and engineers? 
     - Do you offer support from teachers and engineers? 
+    - Is python possible to learn for a 5th grade student?
+    - Is python possible to learn for a 6th grade student?
+    - Is python possible to learn for a 7th grade student?
+    - Is python possible to learn for a 4th grade student?
+    - Does your institution provide theoretical knowledge or even practical implementation of python is taught?
+    - After completion of course any certificates would be provided?
+    - Any certificates issued?
+    - Any exams conducted during the course plan?
+    - Any exams conducted during the basic course plan for grade 1-4?
+    - Any exams conducted during the intermediate course plan for grade 1-4?
+    - Any exams conducted during the professional course plan for grade 1-4?
+    - Any exams conducted during the basic course plan for grade 5-7?
+    - Do you provide progress report for grade 5-7 students enrolled in basic course?
 
 - intent: word_coding
   examples:  |
