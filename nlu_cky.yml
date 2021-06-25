@@ -311,9 +311,7 @@ nlu:
 - intents: Free_Course
   examples:  |
     - If it is a paid course, does it have a free trial or money back guarantee?
-- intents: About_Certification
-  examples:  |   
-    - Will my child get a certificate?
+
 - intents: About_Scholarship
   examples:  |
     - Do you have a scholarship test?
@@ -536,10 +534,6 @@ nlu:
 - intent: opt_offline
   examples: |
     - can I opt for offline sessions
-       
-- intent: where_certificate
-  examples:  |
-    - where will i recieve my course certifacte after completion?
        
 - intent:  Yes_
   examples:  |
@@ -1169,11 +1163,7 @@ nlu:
 - intent : About_Mentor
   examples :  |
     - Do you have professionally trained teachers? 
-    - Do you have any special teachers for helping student assignments ?
-     
-- intent : Coding_In_Mobile
-  examples :  |
-    - Do you provide a certificate after completion ?   
+    - Do you have any special teachers for helping student assignments ?  
      
 - intent : Weekend_Session
   examples :  |
