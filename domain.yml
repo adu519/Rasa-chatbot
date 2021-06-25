@@ -116,6 +116,9 @@ intents:
   - costing
   - single_courses
   - skills_scratch
+  - Technical_Issue
+  - Fees_Comparison
+  - About_PHP
   - About_Mentor
   - Coding_In_Mobile
   - Weekend_Session
@@ -148,8 +151,6 @@ intents:
   - choosing_Programming_Language
   - Benefit_of_c++_Programming
 
-
-
 responses:
   utter_greet:
   - text: "Hey! How are you?"
@@ -178,7 +179,8 @@ responses:
   - text: "Coding teaches  logical reasoning, critical thinking, and most importantly helps us to solve problems by creating software that makes life easier for people."
   
   
-
+  utter_About_PHP:
+  - text: "PHP is a scripting language used for web development"
 
   utter_contact:
   - text: "Contact  at. +91 8010996763 or https://www.codekaroyaaro.com/ to know about this. "
@@ -652,3 +654,19 @@ actions:
 - utter_costing
 - utter_single_courses
 - utter_skills_scratch
+- utter_workshop
+- utter_tie_up
+- utter_collaboration
+- utter_carrer
+- utter_scope_high
+- utter_per_batch_teacher
+- utter_help_my_kid
+- utter_opt_offline
+- utter_where_certificate
+- utter_yes
+- utter_word_coding
+- utter_value_added_course
+- utter_contact_instructor
+- utter_Python_Scope
+- utter_About_Python
+- utter_About_PHP
