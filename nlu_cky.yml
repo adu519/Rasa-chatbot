@@ -518,6 +518,13 @@ nlu:
     - Do you have a scholarship test?
     - How Python for Kids Promotes Algorithmic Thinking in Students?
     - which programming language you should prefer for beginner?
+    -CAN STUDENTS ATTEND MORE THAN ONE CODING CAMP OR CODING COURSE? WILL THEY JUST BE REPEATING THE SAME MATERIAL?
+    -Is there a course available on NLP ? 
+    -Is the any 1 month plan?
+    -Are the classes held daily for these courses?
+    -Will there be an exam after completion of course?
+    -What is 1:1 live interactive classes?
+
  
 - intent: scope_high
   examples:  |
