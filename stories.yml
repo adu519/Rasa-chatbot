@@ -871,6 +871,88 @@ stories:
 - story: About_Java_Programme
   - intent: About_Java_Programme
   - action: About_Java_Programme
+  
+- story: Coding Benefit
+  - intent: About_Coding_Benefit
+  - action: About_Coding_Benefit
+  
+- story: Apply For Coding
+  - intent: Apply_For_Coding
+  - action: Apply_For_Coding
+  
+- story: Coding Interest
+  - intent: Coding_Interest
+  - action: Coding_Interest
+  
+- story: About Mentor
+  - intent: About_Mentor
+  - action: About_Mentor
+  
+- story: Weekend Session
+  - intent: Weekend_Session
+  - action: Weekend_Session
+  
+- story: Free Course
+  - intent: Free_Course
+  - action: Free_Course
+  
+- story: Kids Performance
+  - intent: Kids_Performance
+  - action: Kids_Performance
+  
+- story: Doubt Class Time
+  - intent: Doubt_Class_Time
+  - action: Doubt_Class_Time
+  
+- story: Python Language
+  - intent: Python_Language
+  - action: Python_Language
+  
+- story: Enrolling Process
+  - intent: Enrolling_Process
+  - action: Enrolling_Process
+  
+- story: Doubt Class Frequency
+  - intent: Doubt_Class_Frequency
+  - action: Doubt_Class_Frequency
+  
+- story: Attend Classes
+  - intent: Attend_Classes
+  - action: Classes_From_Village
+  
+- story: Home Tutor
+  - intent: Home_Tutor
+  - action: Home_Tutor
+  
+- story: CKY Website
+  - intent: CKY_Website
+  - action: CKY_Website
+  
+- story: CKY Reviews
+  - intent: CKY_Reviews
+  - action: CKY_Reviews
+  
+- story: Fees Comparison
+  - intent: Fees_Comparison
+  - action: Fees_Comparison
+  
+- story: Technical Issue During Class
+  - intent: Technical_Issue_During_Class
+  - action: Technical_Issue_During_Class
+  
+- story: Python Use In Web Dev
+  - intent: Python_Use_In_Web_Dev
+  - action: Python_Use_In_Web_Dev
+  
+- story: Doubt Class
+  - intent: Doubt_Class
+  - action: Doubt_Class
+  
+- story: Kids Performance
+  - intent: Kids_Performance
+  - action: Kids_Performance
+  
+
     
   
   
