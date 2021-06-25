@@ -114,6 +114,7 @@ nlu:
 - intent: Batch_Size
   examples: |
     - How many students are allowed in one batch?
+    -What Group Sizes of Batch?
 - intent: Course_Info
   examples:  |
     - What course options do you have for older/younger children?
@@ -878,9 +879,6 @@ nlu:
 - intent: duration_proffesional
   examples: |
     -What is the duration of Professional course?
-- intent: batch_size
-  examples: |
-    -What Group Sizes of Batch?
 - intent: duration_starter 
   examples: |
     -What is the duration of Starter course?
